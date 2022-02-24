@@ -1,8 +1,8 @@
-- 👋 Hey, I’m Adrian Sujkovic, or @sujkovic on github,
+- 👋 Hey, I’m Adrian Sujkovic,
 - 🌱 I’m currently a sophomore at Binghamton University doing a Computer Science/Math double major,
 - 💞️ I’m learning all the concrete ideas of computer science at university such as architecture and data structures,
 - which is complemented by a little web development and app development in my free time as a hobby,
-- 📫 You can reach me at adrian.sujkovic@gmail.com,
+- 📫 You can reach me at adrian.sujkovic@gmail.com, or at https://www.linkedin.com/in/adrian-sujkovic/,
 - 👀 I’m hoping to find an internship this summer where I can build my skills and contribute to projects.
 
 <!---
