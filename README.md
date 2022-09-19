@@ -5,6 +5,7 @@ const Adrian = {
   location: 'New York City',
   languages: 'C++, JavaScript, HTML, CSS',
   tools: 'Linux, Bash, React, Webpack',
+  linkedin: 'https://www.linkedin.com/in/adrian-sujkovic/',
 }
 ```
 
